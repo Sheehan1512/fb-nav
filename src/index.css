@@ -22,3 +22,7 @@ a {
   color: var(--text-color);
   text-decoration: none;
 }
+
+a svg path {
+  fill: var(--text-color);
+}
